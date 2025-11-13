@@ -40,6 +40,10 @@ A curated list of awesome things related to Auth0. 👤
 - [node-auth0](https://github.com/auth0/node-auth0) - Node.js client library for the Auth0 platform maintained by Auth0.
 - [terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0) - The Auth0 Terraform Provider is the official plugin for managing Auth0 tenant configuration through the Terraform tool.
 
+## Labs
+- [cloudflare-agents-starter](https://github.com/auth0-lab/cloudflare-agents-starter) - A starter kit for building secure ai agents on Cloudflare with Auth0.
+- [auth0-hono](https://github.com/auth0-lab/auth0-hono) - A lightweight and flexible middleware for the Hono web framework that simplifies authentication via OpenID Connect (OIDC).
+
 ## Projects Using Auth0
 - [auth0-account-migration](https://github.com/abbaspour/auth0-account-migration) - A project that demonstrates how to perform a lazy migration between Auth0 tenants.
 - [auth0-ai-samples](https://github.com/auth0-samples/auth0-ai-samples) - Sample applications showcasing GenAI capabilities of the Auth0 platform and Okta FGA.
