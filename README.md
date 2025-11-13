@@ -9,9 +9,10 @@ A curated list of awesome things related to Auth0. 👤
   - [Companies Using Auth0](#companies-using-auth0)
 
 ## Official Resources
-
 - [API Reference](https://auth0.com/docs/api)
 - [Blog](https://auth0.com/blog/)
+  - [RSS Feed](https://auth0.com/blog/rss.xml)
+  - [Technical Strategies for Migrating Users to Auth0](https://auth0.com/blog/technical-strategies-for-migrating-users-to-auth0/) - Learn techniques for migrating users from other identity solutions to Auth0.
 - [Documentation](https://auth0.com/docs)
   - [Manage Users](https://auth0.com/docs/manage-users) - Learn about working with users, user profiles, and user metadata in Auth0.
   - [Secure](https://auth0.com/docs/secure) - Learn about various security-related issues such as handling tokens, preventing security attacks, data privacy, and Auth0 security bulletins.
@@ -22,7 +23,6 @@ A curated list of awesome things related to Auth0. 👤
 - [Support Center](https://support.auth0.com)
 
 ## Community
-
 - [@auth0 on X (Twitter)](https://x.com/auth0) - Product news, updates, blog posts, and general announcements.
 - [@auth0status on X (Twitter)](https://x.com/auth0status) - Real-time service status updates and incident reports.
 - [@auth0community X (Twitter)](https://x.com/auth0community) - Developer-focused content, community discussions, and learning resources.
