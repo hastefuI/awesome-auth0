@@ -14,6 +14,8 @@ A curated list of awesome things related to Auth0. 👤
 - [Blog](https://auth0.com/blog/)
 - [Documentation](https://auth0.com/docs)
 - [Github](https://github.com/auth0)
+- [Status Page](https://status.auth0.com)
+- [Support Center](https://support.auth0.com)
 
 ## Community
 
