@@ -24,6 +24,7 @@ A curated list of awesome things related to Auth0. 👤
 ## Developer Ecosystem
 
 - [auth0.js](https://github.com/auth0/auth0.js) - A client-side JavaScript toolkit for Auth0's API maintained by Auth0.
+- [laravel-auth0](https://github.com/auth0/laravel-auth0) - Laravel SDK for Auth0 Authentication and Management APIs.
 - [localauth0](https://github.com/primait/localauth0) - A Mocked Auth0 sevice for local development.
 - [node-auth0](https://github.com/auth0/node-auth0) - Node.js client library for the Auth0 platform maintained by Auth0.
 - [terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0) - The Auth0 Terraform Provider is the official plugin for managing Auth0 tenant configuration through the Terraform tool.
@@ -32,6 +33,7 @@ A curated list of awesome things related to Auth0. 👤
 - [auth0-ai-samples](https://github.com/auth0-samples/auth0-ai-samples) - Sample applications showcasing GenAI capabilities of the Auth0 platform and Okta FGA.
 - [auth0-react-native-sample](https://github.com/auth0-samples/auth0-react-native-sample) - Auth0 Integration Samples for React Native.
 - [auth0-task-vantage](https://github.com/auth0-samples/auth0-task-vantage) - Sample app showcasing Auth0 integration across multiple interfaces (MCP, REST API, AI agents, web app).
+- [laravel](https://github.com/auth0-samples/laravel) - A sample Laravel application with an Auth0 integration, using the Auth0 Laravel SDK.
 
 ## Companies Using Auth0
 - [Linktree](https://linktr.ee/)
