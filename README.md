@@ -6,13 +6,15 @@ A curated list of awesome things related to Auth0. 👤
     - [Official Resources](#official-resources)
     - [Community](#community)
     - [Developer Ecosystem](#developer-ecosystem)
+  - [Companies Using Auth0](#companies-using-auth0)
 
 ## Resources
 
 ### Official Resources
 
-- [Documentation](https://auth0.com/docs)
 - [API Reference](https://auth0.com/docs/api)
+- [Documentation](https://auth0.com/docs)
+- [Github](https://github.com/auth0)
 
 ### Community
 
@@ -24,3 +26,15 @@ A curated list of awesome things related to Auth0. 👤
 ### Developer Ecosystem
 
 - [localauth0](https://github.com/primait/localauth0): A Mocked Auth0 sevice for local development.
+- [node-auth0](https://github.com/auth0/node-auth0): Node.js client library for the Auth0 platform maintained by Auth0.
+- [terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0): The Auth0 Terraform Provider is the official plugin for managing Auth0 tenant configuration through the Terraform tool.
+
+## Companies Using Auth0
+
+A list of well-known companies that are using Auth0.
+
+- [Linktree](https://linktr.ee/)
+- [Love's](https://www.loves.com)
+- [OpenAI](https://openai.com)
+- [Polaris](https://www.polaris.com)
+- [StockX](https://stockx.com)
