@@ -42,6 +42,7 @@ A curated list of awesome things related to Auth0. 👤
 - [localauth0](https://github.com/primait/localauth0) - A Mocked Auth0 sevice for local development.
 - [node-auth0](https://github.com/auth0/node-auth0) - Node.js client library for the Auth0 platform maintained by Auth0.
 - [terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0) - The Auth0 Terraform Provider is the official plugin for managing Auth0 tenant configuration through the Terraform tool.
+- [wordpress](https://github.com/auth0/wordpress) - WordPress Plugin for Auth0 Authentication.
 
 ## Labs
 - [cloudflare-agents-starter](https://github.com/auth0-lab/cloudflare-agents-starter) - A starter kit for building secure ai agents on Cloudflare with Auth0.
@@ -56,9 +57,15 @@ A curated list of awesome things related to Auth0. 👤
 - [auth0-task-vantage](https://github.com/auth0-samples/auth0-task-vantage) - Sample app showcasing Auth0 integration across multiple interfaces (MCP, REST API, AI agents, web app).
 - [laravel](https://github.com/auth0-samples/laravel) - A sample Laravel application with an Auth0 integration, using the Auth0 Laravel SDK.
 
+## Tutorials
+- [Auth0 MFA Twilio Verify](https://www.twilio.com/en-us/blog/configure-auth0-mfa-twilio-verify) - Learn how to configure Auth0 MFA using Twilio Verify.
+
 ## Companies Using Auth0
 - [Linktree](https://linktr.ee/)
 - [Love's](https://www.loves.com)
 - [OpenAI](https://openai.com)
 - [Polaris](https://www.polaris.com)
 - [StockX](https://stockx.com)
+
+## Conferences
+- [Oktane](https://www.okta.com/oktane/)
