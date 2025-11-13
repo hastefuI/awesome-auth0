@@ -23,7 +23,7 @@ A curated list of awesome things related to Auth0. 👤
 - [Forum](https://community.auth0.com) - The official Auth0 community forum.
 
 ## Developer Ecosystem
-
+- [auth0-actions-testing](https://github.com/kilterset/auth0-actions-testing) - Test and develop Auth0 Actions locally.
 - [auth0-cli](https://github.com/auth0/auth0-cli) - Build, manage and test your Auth0 integrations from the command line.
 - [auth0-deploy-cli](https://github.com/auth0/auth0-deploy-cli) - The Auth0 Deploy CLI is a tool that helps you manage your Auth0 tenant configuration. It integrates into your development workflows as a standalone CLI or as a node module.
 - [auth0.js](https://github.com/auth0/auth0.js) - A client-side JavaScript toolkit for Auth0's API maintained by Auth0.
