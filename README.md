@@ -41,6 +41,8 @@ A curated list of awesome things related to Auth0. 👤
 
 ## Projects Using Auth0
 - [auth0-ai-samples](https://github.com/auth0-samples/auth0-ai-samples) - Sample applications showcasing GenAI capabilities of the Auth0 platform and Okta FGA.
+- [auth0-golang-web-app](https://github.com/auth0-samples/auth0-golang-web-app) - Auth0 Integration Samples for Go Web Applications.
+- [auth0-python-web-app](https://github.com/auth0-samples/auth0-python-web-app) - Auth0 Integration Samples for Python and Flask Web Applications.
 - [auth0-react-native-sample](https://github.com/auth0-samples/auth0-react-native-sample) - Auth0 Integration Samples for React Native.
 - [auth0-task-vantage](https://github.com/auth0-samples/auth0-task-vantage) - Sample app showcasing Auth0 integration across multiple interfaces (MCP, REST API, AI agents, web app).
 - [laravel](https://github.com/auth0-samples/laravel) - A sample Laravel application with an Auth0 integration, using the Auth0 Laravel SDK.
