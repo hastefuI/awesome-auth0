@@ -41,6 +41,7 @@ A curated list of awesome things related to Auth0. 👤
 - [terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0) - The Auth0 Terraform Provider is the official plugin for managing Auth0 tenant configuration through the Terraform tool.
 
 ## Projects Using Auth0
+- [auth0-account-migration](https://github.com/abbaspour/auth0-account-migration) - A project that demonstrates how to perform a lazy migration between Auth0 tenants.
 - [auth0-ai-samples](https://github.com/auth0-samples/auth0-ai-samples) - Sample applications showcasing GenAI capabilities of the Auth0 platform and Okta FGA.
 - [auth0-golang-web-app](https://github.com/auth0-samples/auth0-golang-web-app) - Auth0 Integration Samples for Go Web Applications.
 - [auth0-python-web-app](https://github.com/auth0-samples/auth0-python-web-app) - Auth0 Integration Samples for Python and Flask Web Applications.
