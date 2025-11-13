@@ -33,6 +33,7 @@ A curated list of awesome things related to Auth0. 👤
 - [auth0-bash](https://github.com/abbaspour/auth0-bash) - A collection of Bash Scripts for Auth0.
 - [auth0-cli](https://github.com/auth0/auth0-cli) - Build, manage and test your Auth0 integrations from the command line.
 - [auth0-deploy-cli](https://github.com/auth0/auth0-deploy-cli) - The Auth0 Deploy CLI is a tool that helps you manage your Auth0 tenant configuration. It integrates into your development workflows as a standalone CLI or as a node module.
+- [dotnet-sdk](https://github.com/openfga/dotnet-sdk) - OpenFGA SDK for .NET compatible with Auth0 FGA.
 - [auth0.js](https://github.com/auth0/auth0.js) - A client-side JavaScript toolkit for Auth0's API maintained by Auth0.
 - [Fga.Net](https://github.com/Hawxy/Fga.Net) - Auth0 FGA & OpenFGA for ASP.NET Core + Worker Services.
 - [laravel-auth0](https://github.com/auth0/laravel-auth0) - Laravel SDK for Auth0 Authentication and Management APIs.
