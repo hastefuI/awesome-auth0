@@ -11,6 +11,7 @@ A curated list of awesome things related to Auth0. 👤
 ## Official Resources
 
 - [API Reference](https://auth0.com/docs/api)
+- [Blog](https://auth0.com/blog/)
 - [Documentation](https://auth0.com/docs)
 - [Github](https://github.com/auth0)
 
