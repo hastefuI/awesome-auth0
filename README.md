@@ -17,6 +17,7 @@ A curated list of awesome things related to Auth0. 👤
   - [Secure](https://auth0.com/docs/secure) - Learn about various security-related issues such as handling tokens, preventing security attacks, data privacy, and Auth0 security bulletins.
 - [Github](https://github.com/auth0)
 - [Marketplace](https://marketplace.auth0.com)
+- [Resources](https://auth0.com/resources) - Auth0's official list of resources that includes ebooks, webinars, whitepapers, etc.
 - [Status Page](https://status.auth0.com)
 - [Support Center](https://support.auth0.com)
 
