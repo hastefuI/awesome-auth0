@@ -23,6 +23,7 @@ A curated list of awesome things related to Auth0. 👤
 
 ## Developer Ecosystem
 
+- [auth0-cli](https://github.com/auth0/auth0-cli) - Build, manage and test your Auth0 integrations from the command line.
 - [auth0.js](https://github.com/auth0/auth0.js) - A client-side JavaScript toolkit for Auth0's API maintained by Auth0.
 - [laravel-auth0](https://github.com/auth0/laravel-auth0) - Laravel SDK for Auth0 Authentication and Management APIs.
 - [localauth0](https://github.com/primait/localauth0) - A Mocked Auth0 sevice for local development.
