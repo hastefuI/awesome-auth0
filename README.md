@@ -38,7 +38,9 @@ A curated list of awesome things related to Auth0. 👤
 ## Developer Ecosystem
 - [auth0-actions-testing](https://github.com/kilterset/auth0-actions-testing) - Test and develop Auth0 Actions locally.
 - [auth0-bash](https://github.com/abbaspour/auth0-bash) - A collection of Bash Scripts for Auth0.
+- [auth0-checkmate](https://github.com/auth0/auth0-checkmate) - A command-line utility that performs configuration checks on a given Auth0 tenant to ensure its configured securely and correctly.
 - [auth0-cli](https://github.com/auth0/auth0-cli) - Build, manage and test your Auth0 integrations from the command line.
+- [auth0-customer-detections](https://github.com/auth0/auth0-customer-detections) - A collection of detection rules for security monitoring of Auth0 environments.
 - [auth0-deploy-cli](https://github.com/auth0/auth0-deploy-cli) - The Auth0 Deploy CLI is a tool that helps you manage your Auth0 tenant configuration. It integrates into your development workflows as a standalone CLI or as a node module.
 - [auth0-log-schemas](https://github.com/auth0/auth0-log-schemas) - A collection of Auth0 log schemas.
 - [auth0-php](https://github.com/auth0/auth0-php) - PHP SDK for Auth0 Authentication and Management APIs.
