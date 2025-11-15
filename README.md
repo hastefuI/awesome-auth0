@@ -19,6 +19,7 @@ A curated list of awesome things related to Auth0. 👤
 - [Documentation](https://auth0.com/docs)
   - [Manage Users](https://auth0.com/docs/manage-users) - Learn about working with users, user profiles, and user metadata in Auth0.
   - [Secure](https://auth0.com/docs/secure) - Learn about various security-related issues such as handling tokens, preventing security attacks, data privacy, and Auth0 security bulletins.
+- [Developer Center](https://developer.auth0.com)
 - [GitHub: Auth0](https://github.com/auth0)
   - [GitHub: Auth0 Developer Hub](https://github.com/auth0-developer-hub)
   - [GitHub: Auth0 Extensions](https://github.com/auth0-extensions)
