@@ -26,6 +26,7 @@ A curated list of awesome things related to Auth0. 👤
   - [GitHub: Auth0 Samples](https://github.com/auth0-samples)
   - [GitHub: Auth0 Training](https://github.com/auth0-training)
 - [Marketplace](https://marketplace.auth0.com)
+- [Open Source](https://auth0.com/opensource) - Browse open source projects built at Auth0.
 - [Resources](https://auth0.com/resources) - Auth0's official list of resources that includes ebooks, webinars, whitepapers, etc.
 - [Status Page](https://status.auth0.com)
 - [Support Center](https://support.auth0.com)
