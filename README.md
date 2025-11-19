@@ -75,6 +75,7 @@ A curated list of awesome things related to Auth0. 👤
 
 ## Tutorials
 - [Auth0 MFA Twilio Verify](https://www.twilio.com/en-us/blog/configure-auth0-mfa-twilio-verify) - Learn how to configure Auth0 MFA using Twilio Verify.
+- [How to migrate users to Auth0](https://auth0.com/blog/how-to-migrate-users-to-auth0-a-technical-guide/) - A technical guide from Auth0 on how to migrate users into the platform.
 
 ## Companies Using Auth0
 - [Atlassian](https://www.atlassian.com)
