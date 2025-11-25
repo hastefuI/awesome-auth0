@@ -52,6 +52,7 @@ A curated list of awesome things related to Auth0. 👤
 - [express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
 - [Fga.Net](https://github.com/Hawxy/Fga.Net) - Auth0 FGA & OpenFGA for ASP.NET Core + Worker Services.
 - [go-auth0](https://github.com/auth0/go-auth0) - Go SDK for the Auth0 Management API.
+- [homebrew-auth0-cli](https://github.com/auth0/homebrew-auth0-cli) - Auth0 CLI Homebrew Formula.
 - [laravel-auth0](https://github.com/auth0/laravel-auth0) - Laravel SDK for Auth0 Authentication and Management APIs.
 - [localauth0](https://github.com/primait/localauth0) - A Mocked Auth0 sevice for local development.
 - [nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Auth0 SDK for Next.js.
