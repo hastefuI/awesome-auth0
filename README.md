@@ -57,6 +57,7 @@ A curated list of awesome things related to Auth0. 👤
 - [localauth0](https://github.com/primait/localauth0) - A Mocked Auth0 sevice for local development.
 - [nextjs-auth0](https://github.com/auth0/nextjs-auth0) - Auth0 SDK for Next.js.
 - [node-auth0](https://github.com/auth0/node-auth0) - Node.js client library for the Auth0 platform maintained by Auth0.
+- [password-sheriff](https://github.com/auth0/password-sheriff) - Node.js library to enforce password policies.
 - [terraform-provider-auth0](https://github.com/auth0/terraform-provider-auth0) - The Auth0 Terraform Provider is the official plugin for managing Auth0 tenant configuration through the Terraform tool.
 - [wordpress](https://github.com/auth0/wordpress) - WordPress Plugin for Auth0 Authentication.
 
