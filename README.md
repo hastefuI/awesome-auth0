@@ -80,6 +80,7 @@ A curated list of awesome things related to Auth0. 👤
 - [How to migrate users to Auth0](https://auth0.com/blog/how-to-migrate-users-to-auth0-a-technical-guide/) - A technical guide from Auth0 on how to migrate users into the platform.
 
 ## Companies Using Auth0
+- [Alaska Airlines](https://www.alaskaair.com)
 - [Atlassian](https://www.atlassian.com)
 - [Linktree](https://linktr.ee)
 - [Love's](https://www.loves.com)
