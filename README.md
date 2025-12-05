@@ -39,6 +39,7 @@ A curated list of awesome things related to Auth0. 👤
 
 ## Developer Ecosystem
 - [auth0-actions-testing](https://github.com/kilterset/auth0-actions-testing) - Test and develop Auth0 Actions locally.
+- [auth0-ai-pr-analyzer-gh-action](https://github.com/auth0/auth0-ai-pr-analyzer-gh-action) - A GitHub Actions workflow that provides AI-powered code reviews using Claude via Amazon Bedrock.
 - [auth0-bash](https://github.com/abbaspour/auth0-bash) - A collection of Bash Scripts for Auth0.
 - [auth0-checkmate](https://github.com/auth0/auth0-checkmate) - A command-line utility that performs configuration checks on a given Auth0 tenant to ensure its configured securely and correctly.
 - [auth0-cli](https://github.com/auth0/auth0-cli) - Build, manage and test your Auth0 integrations from the command line.
