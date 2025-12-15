@@ -83,6 +83,7 @@ A curated list of awesome things related to Auth0. 👤
 ## Companies Using Auth0
 - [Alaska Airlines](https://www.alaskaair.com)
 - [Atlassian](https://www.atlassian.com)
+- [Docker](https://www.docker.com)
 - [Linktree](https://linktr.ee)
 - [Love's](https://www.loves.com)
 - [OpenAI](https://openai.com)
