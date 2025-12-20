@@ -16,6 +16,7 @@ A curated list of awesome things related to Auth0. 👤
 - [Blog](https://auth0.com/blog/)
   - [RSS Feed](https://auth0.com/blog/rss.xml)
   - [Technical Strategies for Migrating Users to Auth0](https://auth0.com/blog/technical-strategies-for-migrating-users-to-auth0/) - Learn techniques for migrating users from other identity solutions to Auth0.
+  - [Honeypots: A Simple Trap for Spam Registration Bots](https://auth0.com/blog/honeypots-simple-bot-trap/)
 - [Documentation](https://auth0.com/docs)
   - [Manage Users](https://auth0.com/docs/manage-users) - Learn about working with users, user profiles, and user metadata in Auth0.
   - [Secure](https://auth0.com/docs/secure) - Learn about various security-related issues such as handling tokens, preventing security attacks, data privacy, and Auth0 security bulletins.
