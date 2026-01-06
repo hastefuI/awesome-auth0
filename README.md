@@ -46,6 +46,7 @@ A curated list of awesome things related to Auth0. 👤
 - [auth0-cli](https://github.com/auth0/auth0-cli) - Build, manage and test your Auth0 integrations from the command line.
 - [auth0-customer-detections](https://github.com/auth0/auth0-customer-detections) - A collection of detection rules for security monitoring of Auth0 environments.
 - [auth0-deploy-cli](https://github.com/auth0/auth0-deploy-cli) - The Auth0 Deploy CLI is a tool that helps you manage your Auth0 tenant configuration. It integrates into your development workflows as a standalone CLI or as a node module.
+- [node-jwks-rsa](https://github.com/auth0/node-jwks-rsa) – Library to fetch and cache RSA public keys from JWKS endpoints.
 - [auth0-log-schemas](https://github.com/auth0/auth0-log-schemas) - A collection of Auth0 log schemas.
 - [auth0-php](https://github.com/auth0/auth0-php) - PHP SDK for Auth0 Authentication and Management APIs.
 - [auth0-vue](https://github.com/auth0/auth0-vue) - Auth0 authentication SDK for Vue.js apps.
@@ -70,12 +71,17 @@ A curated list of awesome things related to Auth0. 👤
 ## Projects Using Auth0
 - [auth0-account-migration](https://github.com/abbaspour/auth0-account-migration) - A project that demonstrates how to perform a lazy migration between Auth0 tenants.
 - [auth0-ai-samples](https://github.com/auth0-samples/auth0-ai-samples) - Sample applications showcasing GenAI capabilities of the Auth0 platform and Okta FGA.
+- [auth0-angular-samples](https://github.com/auth0-samples/auth0-angular-samples) – Angular quickstart / sample projects with Auth0.
+- [auth0-b2b-saas-starter](https://github.com/auth0-developer-hub/auth0-b2b-saas-starter) – Full-stack B2B SaaS starter kit with Auth0 integration.
 - [auth0-golang-web-app](https://github.com/auth0-samples/auth0-golang-web-app) - Auth0 Integration Samples for Go Web Applications.
 - [auth0-python-web-app](https://github.com/auth0-samples/auth0-python-web-app) - Auth0 Integration Samples for Python and Flask Web Applications.
 - [auth0-react-native-sample](https://github.com/auth0-samples/auth0-react-native-sample) - Auth0 Integration Samples for React Native.
+- [auth0-react-samples](https://github.com/auth0-samples/auth0-react-samples) – Example React app showing Auth0 integration.
 - [auth0-spa-js](https://github.com/auth0/auth0-spa-js) - Auth0 authentication for Single Page Applications (SPA) with PKCE.
 - [auth0-task-vantage](https://github.com/auth0-samples/auth0-task-vantage) - Sample app showcasing Auth0 integration across multiple interfaces (MCP, REST API, AI agents, web app).
+- [auth0-vue-samples](https://github.com/auth0-samples/auth0-vue-samples) – Vue.js sample apps demonstrating Auth0 usage.
 - [laravel](https://github.com/auth0-samples/laravel) - A sample Laravel application with an Auth0 integration, using the Auth0 Laravel SDK.
+- [universal-login-samples](https://github.com/auth0-samples/universal-login-samples) – Demonstrates customized Universal Login in a React/TypeScript app.
 
 ## Tutorials
 - [Auth0 MFA Twilio Verify](https://www.twilio.com/en-us/blog/configure-auth0-mfa-twilio-verify) - Learn how to configure Auth0 MFA using Twilio Verify.
