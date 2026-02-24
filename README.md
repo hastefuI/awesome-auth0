@@ -96,6 +96,7 @@ A curated list of awesome things related to Auth0. 👤
 - [OpenAI](https://openai.com)
 - [Polaris](https://www.polaris.com)
 - [StockX](https://stockx.com)
+- [Vertex](https://www.vertexinc.com)
 
 ## Conferences
 - [Oktane](https://www.okta.com/oktane/)
