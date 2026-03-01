@@ -93,6 +93,7 @@ A curated list of awesome things related to Auth0. 👤
 - [Docker](https://www.docker.com)
 - [Linktree](https://linktr.ee)
 - [Love's](https://www.loves.com)
+- [Mozilla](https://www.mozilla.org)
 - [OpenAI](https://openai.com)
 - [Polaris](https://www.polaris.com)
 - [StockX](https://stockx.com)
