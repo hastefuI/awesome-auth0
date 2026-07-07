@@ -91,6 +91,7 @@ A curated list of awesome things related to Auth0. 👤
 - [Alaska Airlines](https://www.alaskaair.com)
 - [Atlassian](https://www.atlassian.com)
 - [Docker](https://www.docker.com)
+- [Fontainebleau](https://www.fontainebleaulasvegas.com)
 - [Linktree](https://linktr.ee)
 - [Love's](https://www.loves.com)
 - [Mozilla](https://www.mozilla.org)
